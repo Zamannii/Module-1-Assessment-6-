@@ -1,0 +1,57 @@
+.gallery img{
+    width:100%;
+    width:100%;
+    width:100%;
+}
+
+h2{
+    font-family:monospace,fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: darkcyan;
+    font-style:oblique
+}
+
+h3{
+    font-family: monospace,fantasy;
+    text-align: left;
+    font-size: 20px;
+    color: darkgoldenrod;
+    font-style: oblique;
+}
+
+h4{
+    font-family: monospace, fantasy;
+    text-align: left;
+    font-size: 15px;
+    color: darkgoldenrod;
+    font-style: oblique
+}
+
+p{
+    font-family: inherit, fantasy;
+    font-style: inherit;
+    color: darkcyan;
+}
+
+#menu{
+      width:100%;
+      height:40px;
+      background-color: darkcyan;
+      padding-top: 12px;
+}
+
+#menu a{
+      color: white;
+      font-family: inherit, sans-serif;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+       color: #5077bd;
+}
